@@ -1,2 +1,2 @@
-# TerraformInfrastructure
-Web App infrastructure using Terraform.
+# Terraform Infrastructure
+Web App infrastructure using Terraform provisioning tool 
