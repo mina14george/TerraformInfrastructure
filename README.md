@@ -1,4 +1,4 @@
-### Terraform Infrastructure
+# Terraform Infrastructure
  
 ## The infrastructure is a three-tiered architecture that features the following :
 -  VPC
