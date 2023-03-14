@@ -1,6 +1,6 @@
-# Terraform Infrastructure
-Web App infrastructure using Terraform provisioning tool 
-The infrastructure is a three-tiered architecture that features the following :
+### Terraform Infrastructure
+ 
+## The infrastructure is a three-tiered architecture that features the following :
 -  VPC
 - 6 subnets (2 public and 4 private) 
 - A route table associated it with public subnets
